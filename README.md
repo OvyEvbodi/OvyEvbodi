@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @OvyEvbodi
-- 👀 I’m interested in front-end web development 
-- 🌱 I’m currently learning javascript 
-- 💞️ I’m looking to collaborate on web design projects
+- 👀 I’m interested in front-end web development and data analysis 
+- 🌱 I write Python, Javascript and SQL
+- 💞️ I’m looking to collaborate on web design and data analysis projects
 - 📫 How to reach me via email: evbodiovo@gmail.com
 
 <!---
